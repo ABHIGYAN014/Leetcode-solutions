@@ -16,4 +16,12 @@ abhii
 |  |
 | ------- |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+## Two Pointers
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0344-reverse-string) |
+## String
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
