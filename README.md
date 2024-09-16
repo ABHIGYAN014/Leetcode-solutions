@@ -7,6 +7,7 @@ abhii
 ## Array
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0322-coin-change) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Binary Search
 |  |
@@ -54,4 +55,12 @@ abhii
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0322-coin-change) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
