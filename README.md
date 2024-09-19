@@ -9,6 +9,7 @@ abhii
 | ------- |
 | [0049-group-anagrams](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0152-maximum-product-subarray](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0152-maximum-product-subarray) |
+| [0189-rotate-array](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0189-rotate-array) |
 | [0322-coin-change](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0322-coin-change) |
 | [0539-minimum-time-difference](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0539-minimum-time-difference) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -24,6 +25,7 @@ abhii
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 ## String
@@ -81,6 +83,7 @@ abhii
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0189-rotate-array) |
 | [0539-minimum-time-difference](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0539-minimum-time-difference) |
 ## Sorting
 |  |
