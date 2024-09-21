@@ -85,6 +85,7 @@ abhii
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0189-rotate-array) |
 | [0539-minimum-time-difference](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0539-minimum-time-difference) |
 ## Sorting
