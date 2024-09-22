@@ -82,6 +82,7 @@ abhii
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0010-regular-expression-matching) |
+| [0024-swap-nodes-in-pairs](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0024-swap-nodes-in-pairs) |
 ## Math
 |  |
 | ------- |
@@ -99,4 +100,8 @@ abhii
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0029-divide-two-integers) |
+## Linked List
+|  |
+| ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0024-swap-nodes-in-pairs) |
 <!---LeetCode Topics End-->
