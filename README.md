@@ -27,6 +27,7 @@ abhii
 | [0125-valid-palindrome](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0680-valid-palindrome-ii](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 ## String
 |  |
@@ -38,6 +39,7 @@ abhii
 | [0125-valid-palindrome](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0539-minimum-time-difference](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0539-minimum-time-difference) |
 | [0680-valid-palindrome-ii](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 | [0742-to-lower-case](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0742-to-lower-case) |
