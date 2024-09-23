@@ -7,6 +7,7 @@ abhii
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0027-remove-element) |
 | [0049-group-anagrams](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0152-maximum-product-subarray](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 | [0189-rotate-array](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0189-rotate-array) |
@@ -25,6 +26,7 @@ abhii
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
+| [0027-remove-element](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0344-reverse-string) |
