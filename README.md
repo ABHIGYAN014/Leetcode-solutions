@@ -8,6 +8,7 @@ abhii
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0027-remove-element) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0049-group-anagrams](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0152-maximum-product-subarray](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 | [0189-rotate-array](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0189-rotate-array) |
@@ -17,6 +18,7 @@ abhii
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Counting
 |  |
