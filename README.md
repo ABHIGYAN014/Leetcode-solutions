@@ -51,6 +51,7 @@ abhii
 | [0539-minimum-time-difference](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0539-minimum-time-difference) |
 | [0680-valid-palindrome-ii](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 | [0742-to-lower-case](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0742-to-lower-case) |
+| [0812-rotate-string](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/1078-remove-outermost-parentheses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1250-longest-common-subsequence](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/1250-longest-common-subsequence) |
@@ -117,4 +118,8 @@ abhii
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0024-swap-nodes-in-pairs) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
