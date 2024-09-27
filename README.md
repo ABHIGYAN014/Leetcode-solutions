@@ -29,6 +29,7 @@ abhii
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0027-remove-element](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0027-remove-element) |
+| [0061-rotate-list](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0061-rotate-list) |
 | [0125-valid-palindrome](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0189-rotate-array) |
@@ -121,6 +122,7 @@ abhii
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0024-swap-nodes-in-pairs) |
+| [0061-rotate-list](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0061-rotate-list) |
 ## String Matching
 |  |
 | ------- |
