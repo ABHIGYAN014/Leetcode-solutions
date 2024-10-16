@@ -64,6 +64,7 @@ abhii
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0179-largest-number) |
@@ -89,6 +90,7 @@ abhii
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0067-add-binary) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Greedy
 |  |
@@ -140,6 +142,7 @@ abhii
 | [0013-roman-to-integer](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0050-powx-n) |
+| [0067-add-binary](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0189-rotate-array) |
 | [0539-minimum-time-difference](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0539-minimum-time-difference) |
 ## Sorting
@@ -155,6 +158,7 @@ abhii
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0067-add-binary) |
 ## Linked List
 |  |
 | ------- |
