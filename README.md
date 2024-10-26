@@ -13,6 +13,7 @@ abhii
 | [0035-search-insert-position](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0059-spiral-matrix-ii](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0059-spiral-matrix-ii) |
+| [0073-set-matrix-zeroes](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0152-maximum-product-subarray) |
@@ -113,6 +114,7 @@ abhii
 | [0012-integer-to-roman](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0242-valid-anagram) |
 | [1256-rank-transform-of-an-array](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/1256-rank-transform-of-an-array) |
@@ -208,4 +210,5 @@ abhii
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0059-spiral-matrix-ii) |
+| [0073-set-matrix-zeroes](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
