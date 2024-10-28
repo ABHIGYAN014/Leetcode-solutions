@@ -11,6 +11,7 @@ abhii
 | [0027-remove-element](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0035-search-insert-position) |
+| [0048-rotate-image](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0059-spiral-matrix-ii](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
@@ -155,6 +156,7 @@ abhii
 | [0012-integer-to-roman](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0029-divide-two-integers) |
+| [0048-rotate-image](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0069-sqrtx) |
@@ -211,6 +213,7 @@ abhii
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0048-rotate-image) |
 | [0059-spiral-matrix-ii](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
