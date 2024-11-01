@@ -8,6 +8,7 @@ abhii
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0011-container-with-most-water) |
+| [0016-3sum-closest](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0027-remove-element) |
@@ -53,6 +54,7 @@ abhii
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0011-container-with-most-water) |
+| [0016-3sum-closest](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0027-remove-element) |
@@ -171,6 +173,7 @@ abhii
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0169-majority-element) |
