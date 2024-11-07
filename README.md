@@ -14,6 +14,7 @@ abhii
 | [0027-remove-element](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0035-search-insert-position) |
+| [0047-permutations-ii](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0057-insert-interval](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0057-insert-interval) |
@@ -217,6 +218,7 @@ abhii
 ## Backtracking
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0078-subsets) |
 | [0113-path-sum-ii](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0113-path-sum-ii) |
 ## Divide and Conquer
