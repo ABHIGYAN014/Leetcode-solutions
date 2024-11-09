@@ -199,6 +199,7 @@ abhii
 | [0021-merge-two-sorted-lists](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0024-swap-nodes-in-pairs) |
 | [0061-rotate-list](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0061-rotate-list) |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 ## String Matching
 |  |
 | ------- |
