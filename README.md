@@ -155,6 +155,7 @@ abhii
 ## Breadth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0101-symmetric-tree) |
 | [0322-coin-change](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0322-coin-change) |
 ## Recursion
 |  |
@@ -224,6 +225,7 @@ abhii
 ## Depth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0101-symmetric-tree) |
 | [0113-path-sum-ii](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0113-path-sum-ii) |
 | [0565-array-nesting](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0565-array-nesting) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/3058-maximum-number-of-k-divisible-components) |
@@ -248,11 +250,13 @@ abhii
 ## Tree
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0101-symmetric-tree) |
 | [0113-path-sum-ii](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0113-path-sum-ii) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/3058-maximum-number-of-k-divisible-components) |
 ## Binary Tree
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0101-symmetric-tree) |
 | [0113-path-sum-ii](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0113-path-sum-ii) |
 ## Design
 |  |
