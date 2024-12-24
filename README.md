@@ -43,6 +43,7 @@ abhii
 | [0035-search-insert-position](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
+| [0222-count-complete-tree-nodes](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0367-valid-perfect-square](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0367-valid-perfect-square) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2979-maximize-the-profit-as-the-salesman](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/2979-maximize-the-profit-as-the-salesman) |
@@ -205,6 +206,7 @@ abhii
 | [0067-add-binary](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0136-single-number) |
+| [0222-count-complete-tree-nodes](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Linked List
 |  |
@@ -258,12 +260,14 @@ abhii
 | ------- |
 | [0101-symmetric-tree](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0101-symmetric-tree) |
 | [0113-path-sum-ii](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0113-path-sum-ii) |
+| [0222-count-complete-tree-nodes](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/3058-maximum-number-of-k-divisible-components) |
 ## Binary Tree
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0101-symmetric-tree) |
 | [0113-path-sum-ii](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0113-path-sum-ii) |
+| [0222-count-complete-tree-nodes](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
 ## Design
 |  |
 | ------- |
