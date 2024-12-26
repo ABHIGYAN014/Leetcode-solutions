@@ -284,4 +284,8 @@ abhii
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
+## Graph
+|  |
+| ------- |
+| [1916-find-center-of-star-graph](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/1916-find-center-of-star-graph) |
 <!---LeetCode Topics End-->
