@@ -102,6 +102,7 @@ abhii
 | [1078-remove-outermost-parentheses](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/1078-remove-outermost-parentheses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1250-longest-common-subsequence](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/1250-longest-common-subsequence) |
+| [1764-maximum-repeating-substring](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/1764-maximum-repeating-substring) |
 | [1923-sentence-similarity-iii](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/1923-sentence-similarity-iii) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Stack
@@ -154,6 +155,7 @@ abhii
 | [0322-coin-change](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0322-coin-change) |
 | [1086-divisor-game](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/1086-divisor-game) |
 | [1250-longest-common-subsequence](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/1250-longest-common-subsequence) |
+| [1764-maximum-repeating-substring](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/1764-maximum-repeating-substring) |
 | [2979-maximize-the-profit-as-the-salesman](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/2979-maximize-the-profit-as-the-salesman) |
 ## Breadth-First Search
 |  |
@@ -225,6 +227,7 @@ abhii
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0812-rotate-string](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0812-rotate-string) |
+| [1764-maximum-repeating-substring](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/1764-maximum-repeating-substring) |
 ## Prefix Sum
 |  |
 | ------- |
