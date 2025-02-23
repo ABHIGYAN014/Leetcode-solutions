@@ -17,6 +17,7 @@ abhii
 | [0047-permutations-ii](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0051-n-queens) |
 | [0057-insert-interval](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0057-insert-interval) |
 | [0059-spiral-matrix-ii](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
@@ -263,6 +264,7 @@ abhii
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0047-permutations-ii) |
+| [0051-n-queens](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0078-subsets) |
 | [0113-path-sum-ii](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0113-path-sum-ii) |
 ## Divide and Conquer
