@@ -1,28 +1,32 @@
 class Solution {
 public:
-    // Backtracking function
-    void backtrack(std::vector<std::string>& result, std::string current, int open, int close, int max) {
-        // If the current combination is of length 2 * max, it's valid
-        if (current.length() == 2 * max) {
-            result.push_back(current);
-            return;
-        }
-
-        // If we can add an open parenthesis, add it and recurse
-        if (open < max) {
-            backtrack(result, current + "(", open + 1, close, max);
-        }
-        // If we can add a close parenthesis, add it and recurse
-        if (close < open) {
-            backtrack(result, current + ")", open, close + 1, max);
-        }
+   void solve(vector<string>&result,string output,int open,int close,int n)
+   {
+    if(open==0&&close==0)
+    {
+      result.push_back(output);
+      return;
     }
-
-    // Main function
-    std::vector<std::string> generateParenthesis(int n) {
-        std::vector<std::string> result;
-        // Start backtracking
-        backtrack(result, "", 0, 0, n);
+    //recursion
+    if(open>0)  //adding (
+    {   output.push_back('(');
+        solve(result,output,open-1,close,n);
+        output.pop_back();
+    }
+    //adding)
+    if(close>open)
+    {
+        output.push_back(')');
+        solve(result,output,open,close-1,n);
+        output.pop_back();
+    }
+   }
+    vector<string> generateParenthesis(int n) {
+        vector<string>result;
+        int open=n;
+        int close=n;
+        string output="";
+        solve(result,output,open,close,n);
         return result;
     }
 };
