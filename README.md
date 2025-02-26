@@ -225,6 +225,7 @@ abhii
 | ------- |
 | [0016-3sum-closest](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0018-4sum) |
+| [0047-permutations-ii](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0169-majority-element) |
