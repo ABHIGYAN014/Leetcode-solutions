@@ -1,34 +1,35 @@
 class Solution {
 public:
-    vector<vector<int>> permuteUnique(vector<int>& nums) {
-        vector<vector<int>> result;
-        vector<int> current;
-        vector<bool> used(nums.size(), false);
-        
-        sort(nums.begin(), nums.end()); // Sort the array to handle duplicates
-        backtrack(nums, current, used, result);
-        
-        return result;
+    void solve(vector<int>& nums,vector<vector<int>>&ans,int start)
+    {
+        //base case
+       if(start>=nums.size())
+       {
+          ans.push_back(nums);
+          return;
+       }
+        //recursive
+        for(int i=start;i<nums.size();i++)
+        {
+            swap(nums[i],nums[start]);
+            solve(nums,ans,start+1);
+                   swap(nums[i],nums[start]);
+        }
+ 
     }
-    
-private:
-    void backtrack(vector<int>& nums, vector<int>& current, vector<bool>& used, vector<vector<int>>& result) {
-        if (current.size() == nums.size()) {
-            result.push_back(current);
-            return;
+    vector<vector<int>> permuteUnique(vector<int>& nums) {
+        vector<vector<int>>ans;
+        solve(nums,ans,0);
+        set<vector<int>>st;
+        for(auto e: ans)
+        {
+            st.insert(e);
         }
-        
-        for (int i = 0; i < nums.size(); i++) {
-            // Skip used elements or duplicate elements
-            if (used[i] || (i > 0 && nums[i] == nums[i - 1] && !used[i - 1])) {
-                continue;
-            }
-            
-            used[i] = true;
-            current.push_back(nums[i]);
-            backtrack(nums, current, used, result);
-            current.pop_back();
-            used[i] = false;
+        ans.clear();
+        for(auto e: st)
+        {
+            ans.push_back(e);
         }
+        return ans;
     }
 };
