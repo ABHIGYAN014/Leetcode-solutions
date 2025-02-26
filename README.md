@@ -15,6 +15,7 @@ abhii
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0040-combination-sum-ii) |
 | [0047-permutations-ii](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0049-group-anagrams) |
@@ -279,6 +280,7 @@ abhii
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0040-combination-sum-ii) |
 | [0047-permutations-ii](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0078-subsets) |
