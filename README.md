@@ -27,6 +27,7 @@ abhii
 | [0074-search-a-2d-matrix](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [0118-pascals-triangle](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0152-maximum-product-subarray) |
@@ -174,6 +175,7 @@ abhii
 | [0022-generate-parentheses](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0072-edit-distance](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0072-edit-distance) |
+| [0118-pascals-triangle](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0198-house-robber) |
