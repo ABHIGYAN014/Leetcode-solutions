@@ -210,6 +210,7 @@ abhii
 | [0024-swap-nodes-in-pairs](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0024-swap-nodes-in-pairs) |
 | [0050-powx-n](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0203-remove-linked-list-elements) |
+| [0231-power-of-two](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0326-power-of-three) |
 | [0390-elimination-game](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0390-elimination-game) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -226,6 +227,7 @@ abhii
 | [0067-add-binary](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0326-power-of-three) |
 | [0367-valid-perfect-square](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0367-valid-perfect-square) |
 | [0390-elimination-game](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0390-elimination-game) |
@@ -258,6 +260,7 @@ abhii
 | [0078-subsets](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
+| [0231-power-of-two](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0231-power-of-two) |
 | [0526-beautiful-arrangement](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0526-beautiful-arrangement) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Linked List
