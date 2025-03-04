@@ -231,6 +231,7 @@ abhii
 | [0537-complex-number-multiplication](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0537-complex-number-multiplication) |
 | [0539-minimum-time-difference](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0539-minimum-time-difference) |
 | [1086-divisor-game](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/1086-divisor-game) |
+| [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Sorting
 |  |
