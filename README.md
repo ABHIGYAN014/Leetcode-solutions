@@ -22,6 +22,7 @@ abhii
 | [0049-group-anagrams](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0057-insert-interval) |
 | [0059-spiral-matrix-ii](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
@@ -157,6 +158,7 @@ abhii
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0055-jump-game) |
 | [0179-largest-number](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0179-largest-number) |
 | [0680-valid-palindrome-ii](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 ## Hash Table
@@ -187,6 +189,7 @@ abhii
 | [0010-regular-expression-matching](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0055-jump-game) |
 | [0072-edit-distance](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0072-edit-distance) |
 | [0118-pascals-triangle](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
