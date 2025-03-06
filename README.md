@@ -216,6 +216,7 @@ abhii
 | [0010-regular-expression-matching](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0024-swap-nodes-in-pairs) |
+| [0025-reverse-nodes-in-k-group](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0203-remove-linked-list-elements) |
 | [0231-power-of-two](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0231-power-of-two) |
@@ -281,6 +282,7 @@ abhii
 | [0021-merge-two-sorted-lists](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0024-swap-nodes-in-pairs) |
+| [0025-reverse-nodes-in-k-group](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0203-remove-linked-list-elements](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0203-remove-linked-list-elements) |
