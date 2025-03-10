@@ -90,6 +90,7 @@ abhii
 | [0125-valid-palindrome](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0189-rotate-array) |
@@ -268,6 +269,7 @@ abhii
 | [0047-permutations-ii](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0217-contains-duplicate) |
@@ -303,6 +305,7 @@ abhii
 | [0138-copy-list-with-random-pointer](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0234-palindrome-linked-list) |
@@ -346,6 +349,7 @@ abhii
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0053-maximum-subarray) |
+| [0148-sort-list](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0169-majority-element) |
 | [0948-sort-an-array](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0948-sort-an-array) |
 ## Matrix
@@ -383,6 +387,7 @@ abhii
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0148-sort-list) |
 | [0948-sort-an-array](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0948-sort-an-array) |
 ## Graph
 |  |
