@@ -1,37 +1,48 @@
+/**
+ * Definition for singly-linked list.
+ * struct ListNode {
+ *     int val;
+ *     ListNode *next;
+ *     ListNode() : val(0), next(nullptr) {}
+ *     ListNode(int x) : val(x), next(nullptr) {}
+ *     ListNode(int x, ListNode *next) : val(x), next(next) {}
+ * };
+ */
 class Solution {
 public:
+    int lengthh(ListNode* head) {
+        int len = 0;
+        while (head) {
+            head = head->next;
+            len++;
+        }
+        return len;
+    }
+
     ListNode* rotateRight(ListNode* head, int k) {
-        if (!head || !head->next || k == 0) {
+        if (!head || !head->next || k == 0)
             return head;
+
+        int length = lengthh(head);
+        int actualrotate = k % length;
+        if (actualrotate == 0)
+            return head;
+
+        int lastnodepos = length - actualrotate - 1;
+        ListNode* lastnode = head;
+        for (int i = 0; i < lastnodepos; i++) {
+            lastnode = lastnode->next;
         }
-        
-        // Find the length of the list
-        ListNode* current = head;
-        int length = 1;  // At least one node is there
-        while (current->next) {
-            current = current->next;
-            length++;
+
+        ListNode* newhead = lastnode->next;
+        lastnode->next = nullptr;
+
+        ListNode* it = newhead;
+        while (it->next) {
+            it = it->next;
         }
-        
-        // Make the list circular
-        current->next = head;
-        
-        // Find the effective number of rotations
-        k = k % length;
-        int stepsToNewHead = length - k;
-        
-        // Find the new tail (which will be at position `stepsToNewHead - 1`)
-        ListNode* newTail = head;
-        for (int i = 1; i < stepsToNewHead; i++) {
-            newTail = newTail->next;
-        }
-        
-        // The new head will be the node after the new tail
-        ListNode* newHead = newTail->next;
-        
-        // Break the circle
-        newTail->next = nullptr;
-        
-        return newHead;
+        it->next = head;
+
+        return newhead;
     }
 };
