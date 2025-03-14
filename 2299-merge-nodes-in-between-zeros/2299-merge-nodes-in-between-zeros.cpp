@@ -28,15 +28,7 @@ public:
             }
             fast = fast->next;
         }
-
-        ListNode*temp=newlastnode->next;
         newlastnode->next=0;
-        while(temp)
-        {
-            ListNode*nxt=temp->next;
-            delete temp;
-            temp=nxt;
-        }
         return head;
     }
 };
