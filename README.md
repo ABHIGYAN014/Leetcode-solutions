@@ -161,6 +161,7 @@ abhii
 | [0537-complex-number-multiplication](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0537-complex-number-multiplication) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2299-merge-nodes-in-between-zeros](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/2299-merge-nodes-in-between-zeros) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Greedy
 |  |
@@ -310,6 +311,7 @@ abhii
 | [0203-remove-linked-list-elements](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0908-middle-of-the-linked-list) |
+| [2299-merge-nodes-in-between-zeros](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/2299-merge-nodes-in-between-zeros) |
 ## String Matching
 |  |
 | ------- |
