@@ -4,7 +4,7 @@ public:
         stack<char> st;
         for (int i = 0; i < s.length(); i++) {
             char ch = s[i];
-            if (ch == '(' || ch =='{' || ch =='[') {
+            if (ch == '(' || ch == '{' || ch == '[') {
                 st.push(ch);
             } else {
                 if (!st.empty()) {
@@ -14,7 +14,7 @@ public:
                         st.pop();
                     } else if (ch == '}' && topch == '{') {
                         st.pop();
-                    } else if (ch ==']' && topch == '[') {
+                    } else if (ch == ']' && topch == '[') {
                         st.pop();
                     } else {
                         return false;
@@ -24,11 +24,9 @@ public:
                 }
             }
         }
-        if(st.empty())
-        {
+        if (st.empty()) {
             return true;
-        }
-        else {
+        } else {
             return false;
         }
     }
