@@ -1,31 +1,35 @@
 class Solution {
 public:
     bool isValid(string s) {
-        // Map to hold matching pairs of brackets
-        unordered_map<char, char> bracketMap = {
-            {')', '('},
-            {']', '['},
-            {'}', '{'}
-        };
-        
-        stack<char> stack;
+        stack<char> st;
+        for (int i = 0; i < s.length(); i++) {
+            char ch = s[i];
+            if (ch == '(' || ch =='{' || ch =='[') {
+                st.push(ch);
+            } else {
+                if (!st.empty()) {
+                    char topch = st.top();
 
-        for (char c : s) {
-            // If it's a closing bracket
-            if (bracketMap.find(c) != bracketMap.end()) {
-                // Check if the stack is empty or the top of the stack doesn't match
-                if (stack.empty() || stack.top() != bracketMap[c]) {
+                    if (ch == ')' && topch == '(') {
+                        st.pop();
+                    } else if (ch == '}' && topch == '{') {
+                        st.pop();
+                    } else if (ch ==']' && topch == '[') {
+                        st.pop();
+                    } else {
+                        return false;
+                    }
+                } else {
                     return false;
                 }
-                // Pop the top element from the stack
-                stack.pop();
-            } else {
-                // If it's an opening bracket, push it onto the stack
-                stack.push(c);
             }
         }
-
-        // If the stack is empty at the end, all brackets are matched
-        return stack.empty();
+        if(st.empty())
+        {
+            return true;
+        }
+        else {
+            return false;
+        }
     }
 };
