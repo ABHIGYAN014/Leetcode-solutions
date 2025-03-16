@@ -118,6 +118,7 @@ abhii
 | [0020-valid-parentheses](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0032-longest-valid-parentheses](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0058-length-of-last-word) |
 | [0065-valid-number](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0065-valid-number) |
@@ -147,6 +148,7 @@ abhii
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0155-min-stack](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [1078-remove-outermost-parentheses](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/1078-remove-outermost-parentheses) |
@@ -201,6 +203,7 @@ abhii
 | [0005-longest-palindromic-substring](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0055-jump-game) |
 | [0072-edit-distance](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0072-edit-distance) |
