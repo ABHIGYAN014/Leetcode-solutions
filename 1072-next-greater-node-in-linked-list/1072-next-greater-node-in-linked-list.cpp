@@ -11,6 +11,7 @@
 class Solution {
 public:
     vector<int> nextLargerNodes(ListNode* head) {
+        vector<int> ans;
         vector<int> arr;
         stack<int> st;
         ListNode* temp = head;
@@ -20,18 +21,20 @@ public:
         }
 
         int n = arr.size();
-        vector<int> ans(n, 0); 
+        ans.resize(n, 0);
+        st.push(0);
+
         for (int i = n - 1; i >= 0; i--) {
             int curr = arr[i];
 
-            while (!st.empty() && st.top() <= curr) {
-                st.pop(); 
+            while (st.top() != 0 && st.top() <= curr) {
+                st.pop();
             }
-            ans[i] = st.empty() ? 0 : st.top();
-
-            st.push(curr); 
+            ans[i] = st.top();
+            st.push(curr);
         }
 
         return ans;
     }
+
 };
