@@ -126,6 +126,7 @@ abhii
 | [0058-length-of-last-word](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0058-length-of-last-word) |
 | [0065-valid-number](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0067-add-binary) |
+| [0071-simplify-path](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0072-edit-distance) |
 | [0125-valid-palindrome](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
@@ -152,6 +153,7 @@ abhii
 | ------- |
 | [0020-valid-parentheses](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
+| [0071-simplify-path](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0155-min-stack](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0234-palindrome-linked-list) |
