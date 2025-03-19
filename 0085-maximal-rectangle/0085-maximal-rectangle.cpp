@@ -19,14 +19,14 @@ public:
     vector<int> NextSmaller(vector<int>& heights) {
         stack<int> st;
         st.push(-1);
-        vector<int> ans(heights.size(), heights.size()); // Initialize with size to avoid -1 handling
+        vector<int> ans(heights.size(), heights.size()); 
         for (int i = heights.size() - 1; i >= 0; i--) {
             int curr = heights[i];
 
             while (st.top() != -1 && heights[st.top()] >= curr) {
                 st.pop();
             }
-            if (st.top() != -1) ans[i] = st.top(); // Avoid unnecessary -1 assignments
+            if (st.top() != -1) ans[i] = st.top();
             st.push(i);
         }
         return ans;
