@@ -142,6 +142,7 @@ abhii
 | [0680-valid-palindrome-ii](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 | [0742-to-lower-case](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0742-to-lower-case) |
 | [0812-rotate-string](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0812-rotate-string) |
+| [1045-check-if-word-is-valid-after-substitutions](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/1045-check-if-word-is-valid-after-substitutions) |
 | [1078-remove-outermost-parentheses](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/1078-remove-outermost-parentheses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1250-longest-common-subsequence](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/1250-longest-common-subsequence) |
@@ -159,6 +160,7 @@ abhii
 | [0234-palindrome-linked-list](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0503-next-greater-element-ii](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0937-online-stock-span](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0937-online-stock-span) |
+| [1045-check-if-word-is-valid-after-substitutions](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/1045-check-if-word-is-valid-after-substitutions) |
 | [1072-next-greater-node-in-linked-list](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/1072-next-greater-node-in-linked-list) |
 | [1078-remove-outermost-parentheses](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/1078-remove-outermost-parentheses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
