@@ -451,4 +451,8 @@ abhii
 |  |
 | ------- |
 | [0937-online-stock-span](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0937-online-stock-span) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
