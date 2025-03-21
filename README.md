@@ -160,6 +160,7 @@ abhii
 | [0071-simplify-path](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0085-maximal-rectangle) |
+| [0094-binary-tree-inorder-traversal](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0155-min-stack](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0503-next-greater-element-ii](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0503-next-greater-element-ii) |
@@ -352,6 +353,7 @@ abhii
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0101-symmetric-tree](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0113-path-sum-ii](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0113-path-sum-ii) |
@@ -390,6 +392,7 @@ abhii
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0101-symmetric-tree](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0113-path-sum-ii](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0113-path-sum-ii) |
@@ -400,6 +403,7 @@ abhii
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0101-symmetric-tree](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0113-path-sum-ii](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0113-path-sum-ii) |
