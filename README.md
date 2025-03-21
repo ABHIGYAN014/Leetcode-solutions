@@ -242,6 +242,7 @@ abhii
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0101-symmetric-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0322-coin-change](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0322-coin-change) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 ## Recursion
@@ -352,6 +353,7 @@ abhii
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0101-symmetric-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0113-path-sum-ii](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0113-path-sum-ii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0565-array-nesting](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0565-array-nesting) |
@@ -388,6 +390,7 @@ abhii
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0101-symmetric-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0113-path-sum-ii](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0113-path-sum-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -396,6 +399,7 @@ abhii
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0101-symmetric-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0113-path-sum-ii](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0113-path-sum-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
