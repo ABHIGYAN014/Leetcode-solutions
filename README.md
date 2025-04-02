@@ -60,6 +60,7 @@ abhii
 | [2265-partition-array-according-to-given-pivot](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2979-maximize-the-profit-as-the-salesman](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/2979-maximize-the-profit-as-the-salesman) |
+| [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3429-special-array-i](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/3429-special-array-i) |
 ## Binary Search
 |  |
