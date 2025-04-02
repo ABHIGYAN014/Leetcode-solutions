@@ -153,6 +153,7 @@ abhii
 | [1764-maximum-repeating-substring](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/1764-maximum-repeating-substring) |
 | [1923-sentence-similarity-iii](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/1923-sentence-similarity-iii) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [3405-count-the-number-of-special-characters-ii](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/3405-count-the-number-of-special-characters-ii) |
 ## Stack
 |  |
 | ------- |
@@ -211,6 +212,7 @@ abhii
 | [0383-ransom-note](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0383-ransom-note) |
 | [1256-rank-transform-of-an-array](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/1256-rank-transform-of-an-array) |
 | [2979-maximize-the-profit-as-the-salesman](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/2979-maximize-the-profit-as-the-salesman) |
+| [3405-count-the-number-of-special-characters-ii](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/3405-count-the-number-of-special-characters-ii) |
 ## Sliding Window
 |  |
 | ------- |
