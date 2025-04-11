@@ -40,6 +40,7 @@ abhii
 | [0179-largest-number](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0239-sliding-window-maximum](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0283-move-zeroes) |
@@ -255,6 +256,7 @@ abhii
 | [0104-maximum-depth-of-binary-tree](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0322-coin-change) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
@@ -375,6 +377,7 @@ abhii
 | [0113-path-sum-ii](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0113-path-sum-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
@@ -410,6 +413,7 @@ abhii
 | [0073-set-matrix-zeroes](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0085-maximal-rectangle) |
+| [0200-number-of-islands](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0200-number-of-islands) |
 ## Tree
 |  |
 | ------- |
@@ -520,4 +524,8 @@ abhii
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0239-sliding-window-maximum) |
+## Union Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
