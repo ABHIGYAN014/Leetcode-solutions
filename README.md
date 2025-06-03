@@ -59,6 +59,7 @@ abhii
 | [1256-rank-transform-of-an-array](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/1256-rank-transform-of-an-array) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [1881-closest-subsequence-sum](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/1881-closest-subsequence-sum) |
 | [1923-sentence-similarity-iii](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/1923-sentence-similarity-iii) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -112,6 +113,7 @@ abhii
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0680-valid-palindrome-ii](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 | [0908-middle-of-the-linked-list](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0908-middle-of-the-linked-list) |
+| [1881-closest-subsequence-sum](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/1881-closest-subsequence-sum) |
 | [1923-sentence-similarity-iii](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/1923-sentence-similarity-iii) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/2265-partition-array-according-to-given-pivot) |
 ## String
@@ -249,6 +251,7 @@ abhii
 | [1250-longest-common-subsequence](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/1250-longest-common-subsequence) |
 | [1263-number-of-dice-rolls-with-target-sum](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/1263-number-of-dice-rolls-with-target-sum) |
 | [1764-maximum-repeating-substring](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/1764-maximum-repeating-substring) |
+| [1881-closest-subsequence-sum](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/1881-closest-subsequence-sum) |
 | [2979-maximize-the-profit-as-the-salesman](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/2979-maximize-the-profit-as-the-salesman) |
 ## Breadth-First Search
 |  |
@@ -323,6 +326,7 @@ abhii
 | [0539-minimum-time-difference](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0539-minimum-time-difference) |
 | [0948-sort-an-array](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0948-sort-an-array) |
 | [1256-rank-transform-of-an-array](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/1256-rank-transform-of-an-array) |
+| [1881-closest-subsequence-sum](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/1881-closest-subsequence-sum) |
 | [2979-maximize-the-profit-as-the-salesman](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/2979-maximize-the-profit-as-the-salesman) |
 ## Bit Manipulation
 |  |
@@ -336,6 +340,7 @@ abhii
 | [0342-power-of-four](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0342-power-of-four) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0526-beautiful-arrangement](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0526-beautiful-arrangement) |
+| [1881-closest-subsequence-sum](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/1881-closest-subsequence-sum) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Linked List
 |  |
@@ -526,6 +531,7 @@ abhii
 |  |
 | ------- |
 | [0526-beautiful-arrangement](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0526-beautiful-arrangement) |
+| [1881-closest-subsequence-sum](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/1881-closest-subsequence-sum) |
 ## Monotonic Stack
 |  |
 | ------- |
