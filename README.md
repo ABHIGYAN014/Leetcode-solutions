@@ -53,6 +53,7 @@ abhii
 | [0526-beautiful-arrangement](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0526-beautiful-arrangement) |
 | [0539-minimum-time-difference](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0539-minimum-time-difference) |
 | [0565-array-nesting](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0565-array-nesting) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0792-binary-search) |
 | [0940-fruit-into-baskets](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0940-fruit-into-baskets) |
 | [0948-sort-an-array](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0948-sort-an-array) |
@@ -77,6 +78,7 @@ abhii
 | [0074-search-a-2d-matrix](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0222-count-complete-tree-nodes](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0367-valid-perfect-square](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0367-valid-perfect-square) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0792-binary-search) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2979-maximize-the-profit-as-the-salesman](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/2979-maximize-the-profit-as-the-salesman) |
