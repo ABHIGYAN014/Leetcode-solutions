@@ -379,6 +379,7 @@ abhii
 | [0160-intersection-of-two-linked-lists](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0234-palindrome-linked-list) |
+| [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0908-middle-of-the-linked-list) |
 | [1072-next-greater-node-in-linked-list](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/1072-next-greater-node-in-linked-list) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/2299-merge-nodes-in-between-zeros) |
@@ -418,6 +419,7 @@ abhii
 | [0543-diameter-of-binary-tree](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0565-array-nesting](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0565-array-nesting) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/3058-maximum-number-of-k-divisible-components) |
@@ -600,4 +602,8 @@ abhii
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0204-count-primes) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 <!---LeetCode Topics End-->
