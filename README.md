@@ -165,6 +165,7 @@ abhii
 | [1078-remove-outermost-parentheses](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/1078-remove-outermost-parentheses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1250-longest-common-subsequence](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/1250-longest-common-subsequence) |
+| [1508-longest-happy-prefix](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/1508-longest-happy-prefix) |
 | [1764-maximum-repeating-substring](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/1764-maximum-repeating-substring) |
 | [1923-sentence-similarity-iii](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/1923-sentence-similarity-iii) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -388,6 +389,7 @@ abhii
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0812-rotate-string](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0812-rotate-string) |
+| [1508-longest-happy-prefix](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/1508-longest-happy-prefix) |
 | [1764-maximum-repeating-substring](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/1764-maximum-repeating-substring) |
 ## Prefix Sum
 |  |
@@ -606,4 +608,12 @@ abhii
 |  |
 | ------- |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
+## Rolling Hash
+|  |
+| ------- |
+| [1508-longest-happy-prefix](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/1508-longest-happy-prefix) |
+## Hash Function
+|  |
+| ------- |
+| [1508-longest-happy-prefix](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/1508-longest-happy-prefix) |
 <!---LeetCode Topics End-->
