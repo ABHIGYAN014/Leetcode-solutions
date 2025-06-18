@@ -579,6 +579,7 @@ abhii
 ## Database
 |  |
 | ------- |
+| [0185-department-top-three-salaries](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0185-department-top-three-salaries) |
 | [1153-product-sales-analysis-i](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/1153-product-sales-analysis-i) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1908-recyclable-and-low-fat-products](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/1908-recyclable-and-low-fat-products) |
