@@ -363,6 +363,7 @@ abhii
 | [0405-convert-a-number-to-hexadecimal](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0526-beautiful-arrangement](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0526-beautiful-arrangement) |
 | [1881-closest-subsequence-sum](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/1881-closest-subsequence-sum) |
+| [2323-minimum-bit-flips-to-convert-number](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Linked List
 |  |
