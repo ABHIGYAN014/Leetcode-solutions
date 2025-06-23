@@ -267,6 +267,7 @@ abhii
 | [0152-maximum-product-subarray](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0322-coin-change) |
+| [0343-integer-break](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0343-integer-break) |
 | [0392-is-subsequence](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0526-beautiful-arrangement](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0526-beautiful-arrangement) |
 | [0747-min-cost-climbing-stairs](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0747-min-cost-climbing-stairs) |
@@ -328,6 +329,7 @@ abhii
 | [0231-power-of-two](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0342-power-of-four) |
+| [0343-integer-break](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0343-integer-break) |
 | [0367-valid-perfect-square](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0367-valid-perfect-square) |
 | [0390-elimination-game](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0390-elimination-game) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
