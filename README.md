@@ -202,6 +202,7 @@ abhii
 | [0054-spiral-matrix](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0415-add-strings) |
 | [0537-complex-number-multiplication](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0537-complex-number-multiplication) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -327,6 +328,7 @@ abhii
 | [0189-rotate-array](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0342-power-of-four) |
 | [0343-integer-break](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0343-integer-break) |
@@ -626,6 +628,7 @@ abhii
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0204-count-primes) |
+| [0258-add-digits](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0258-add-digits) |
 ## Doubly-Linked List
 |  |
 | ------- |
