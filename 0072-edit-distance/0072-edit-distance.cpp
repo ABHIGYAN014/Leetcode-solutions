@@ -1,37 +1,37 @@
-#include <vector>
-#include <string>
-#include <algorithm>
-
 class Solution {
 public:
-    int minDistance(std::string word1, std::string word2) {
-        int m = word1.size();
-        int n = word2.size();
-        
-        // DP table to store the minimum edit distance at each state
-        std::vector<std::vector<int>> dp(m + 1, std::vector<int>(n + 1, 0));
-        
-        // Initialize base cases
-        for (int i = 0; i <= m; ++i) {
-            dp[i][0] = i;  // All deletions if word2 is empty
+
+    int solve(string &s1,string &s2,int i,int j,vector<vector<int>>&dp)
+    {
+        if(i>=s1.length()) return s2.length()-j;
+        if(j>=s2.length()) return s1.length()-i;
+        int add=0;
+        int replace=0;
+        int deletee=0;
+        int same=0;
+
+        if(dp[i][j]!=-1) return dp[i][j];
+
+        if(s1[i]==s2[j])
+        {
+            return dp[i][j]=solve(s1,s2,i+1,j+1,dp);
         }
-        for (int j = 0; j <= n; ++j) {
-            dp[0][j] = j;  // All insertions if word1 is empty
+        else
+        {
+             add=1+solve(s1,s2,i,j+1,dp);
+             replace=1+solve(s1,s2,i+1,j+1,dp);
+             deletee=1+solve(s1,s2,i+1,j,dp);
         }
+
+        return dp[i][j]=min(add,min(replace,deletee));
         
-        // Fill the DP table
-        for (int i = 1; i <= m; ++i) {
-            for (int j = 1; j <= n; ++j) {
-                if (word1[i - 1] == word2[j - 1]) {
-                    dp[i][j] = dp[i - 1][j - 1];
-                } else {
-                    dp[i][j] = std::min({dp[i - 1][j - 1] + 1,  // Replace
-                                         dp[i][j - 1] + 1,      // Insert
-                                         dp[i - 1][j] + 1});    // Delete
-                }
-            }
-        }
-        
-        return dp[m][n];
     }
+    int minDistance(string word1, string word2) {
+      int i=0;
+      int j=0;
+      vector<vector<int>>dp(word1.length(),vector<int>(word2.length(),-1));
+      int ans=solve(word1,word2,i,j,dp);
+      return ans;
+    }
+
 };
