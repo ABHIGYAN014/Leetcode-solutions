@@ -58,6 +58,7 @@ abhii
 | [0539-minimum-time-difference](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0539-minimum-time-difference) |
 | [0560-subarray-sum-equals-k](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0565-array-nesting](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0565-array-nesting) |
+| [0724-find-pivot-index](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0747-min-cost-climbing-stairs](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0792-binary-search) |
@@ -423,6 +424,7 @@ abhii
 | [0303-range-sum-query-immutable](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2571-find-the-pivot-integer](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/2571-find-the-pivot-integer) |
 ## Trie
