@@ -1,39 +1,20 @@
 class Solution {
 public:
+    // vector<int> solve(vector<int>& nums, int target,vector<int>&ans)
+    // {   
+
+    // }
     vector<int> searchRange(vector<int>& nums, int target) {
-        vector<int> result(2, -1);  // Initialize result with [-1, -1]
-        int left = 0, right = nums.size() - 1;
-        
-        // First binary search to find the first occurrence
-        while (left <= right) {
-            int mid = left + (right - left) / 2;
-            if (nums[mid] == target) {
-                result[0] = mid; // Tentative first occurrence
-                right = mid - 1; // Look left to find earlier occurrence
-            } else if (nums[mid] < target) {
-                left = mid + 1;
-            } else {
-                right = mid - 1;
-            }
+       vector<int>ans;
+     
+        int index=lower_bound(nums.begin(),nums.end(),target)-nums.begin();
+        ans.push_back(index);
+        int index1=upper_bound(nums.begin(),nums.end(),target)-nums.begin() -1;
+        ans.push_back(index1);
+        if (index == nums.size() || nums[index] != target) {
+            return {-1, -1};
         }
-        
-        // Reset left and right pointers for second search
-        left = 0;
-        right = nums.size() - 1;
-        
-        // Second binary search to find the last occurrence
-        while (left <= right) {
-            int mid = left + (right - left) / 2;
-            if (nums[mid] == target) {
-                result[1] = mid; // Tentative last occurrence
-                left = mid + 1;  // Look right to find later occurrence
-            } else if (nums[mid] < target) {
-                left = mid + 1;
-            } else {
-                right = mid - 1;
-            }
-        }
-        
-        return result;
+        // return solve(nums,target,ans);
+        return ans;
     }
 };
