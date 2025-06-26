@@ -59,6 +59,7 @@ abhii
 | [0539-minimum-time-difference](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0539-minimum-time-difference) |
 | [0560-subarray-sum-equals-k](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0565-array-nesting](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0565-array-nesting) |
+| [0682-baseball-game](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0747-min-cost-climbing-stairs](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0747-min-cost-climbing-stairs) |
@@ -200,6 +201,7 @@ abhii
 | [0155-min-stack](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0503-next-greater-element-ii](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0503-next-greater-element-ii) |
+| [0682-baseball-game](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0682-baseball-game) |
 | [0937-online-stock-span](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0937-online-stock-span) |
 | [1045-check-if-word-is-valid-after-substitutions](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/1045-check-if-word-is-valid-after-substitutions) |
 | [1072-next-greater-node-in-linked-list](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/1072-next-greater-node-in-linked-list) |
@@ -215,6 +217,7 @@ abhii
 | [0258-add-digits](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0415-add-strings) |
 | [0537-complex-number-multiplication](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0537-complex-number-multiplication) |
+| [0682-baseball-game](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0682-baseball-game) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/2271-rearrange-array-elements-by-sign) |
