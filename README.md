@@ -69,6 +69,7 @@ abhii
 | [1256-rank-transform-of-an-array](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/1256-rank-transform-of-an-array) |
 | [1367-maximum-height-by-stacking-cuboids](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/1367-maximum-height-by-stacking-cuboids) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1791-richest-customer-wealth](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/1791-richest-customer-wealth) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1881-closest-subsequence-sum](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/1881-closest-subsequence-sum) |
 | [1923-sentence-similarity-iii](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/1923-sentence-similarity-iii) |
@@ -493,6 +494,7 @@ abhii
 | [0085-maximal-rectangle](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0304-range-sum-query-2d-immutable](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0304-range-sum-query-2d-immutable) |
+| [1791-richest-customer-wealth](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/1791-richest-customer-wealth) |
 ## Tree
 |  |
 | ------- |
