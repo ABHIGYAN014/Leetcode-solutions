@@ -607,6 +607,7 @@ abhii
 |  |
 | ------- |
 | [0185-department-top-three-salaries](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0185-department-top-three-salaries) |
+| [0197-rising-temperature](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0197-rising-temperature) |
 | [1153-product-sales-analysis-i](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/1153-product-sales-analysis-i) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
