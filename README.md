@@ -89,6 +89,7 @@ abhii
 | [0222-count-complete-tree-nodes](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0300-longest-increasing-subsequence](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0367-valid-perfect-square](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0367-valid-perfect-square) |
+| [0374-guess-number-higher-or-lower](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0374-guess-number-higher-or-lower) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0792-binary-search) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -660,4 +661,8 @@ abhii
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/1013-fibonacci-number) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
