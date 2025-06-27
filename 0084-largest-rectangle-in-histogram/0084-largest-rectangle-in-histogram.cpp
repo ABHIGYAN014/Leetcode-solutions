@@ -1,5 +1,7 @@
 class Solution {
 public:
+
+  // Finding the index of all elements smaller than thaat particular   element  in left of it  for eg sample 1 : [-1,-1,1,2,1,4]
     vector<int> PreviousSmaller(vector<int>& heights) {
         stack<int> st;
         st.push(-1);
@@ -15,6 +17,7 @@ public:
         }
         return ans;
     }
+ // Finding the index of all elements smaller than thaat particular   element in right of it for eg sample 1 : [1,-1,4,4,-1,-1]
     vector<int> NextSmaller(vector<int>& heights) {
         stack<int> st;
         st.push(-1);
@@ -30,6 +33,7 @@ public:
         }
         return ans;
     }
+
     int largestRectangleArea(vector<int>& heights) {
         vector<int> prev = PreviousSmaller(heights);
         vector<int> next = NextSmaller(heights);
