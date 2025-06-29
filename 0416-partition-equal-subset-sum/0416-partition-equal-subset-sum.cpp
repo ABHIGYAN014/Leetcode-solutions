@@ -6,8 +6,8 @@ public:
         if(sum>target) return false;
         if(sum==target) return true;
         if(dp[index][sum]!=-1) return dp[index][sum];
-        int include=solve(nums,target,index+1,sum+nums[index],dp);
-        int exclude=solve(nums,target,index+1,sum,dp);
+        bool include=solve(nums,target,index+1,sum+nums[index],dp);
+        bool exclude=solve(nums,target,index+1,sum,dp);
 
         return dp[index][sum]=include || exclude;
         
