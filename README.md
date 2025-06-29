@@ -55,6 +55,7 @@ abhii
 | [0303-range-sum-query-immutable](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0322-coin-change](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0322-coin-change) |
+| [0416-partition-equal-subset-sum](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0485-max-consecutive-ones](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0503-next-greater-element-ii](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0526-beautiful-arrangement](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0526-beautiful-arrangement) |
@@ -294,6 +295,7 @@ abhii
 | [0343-integer-break](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0343-integer-break) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0392-is-subsequence](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0392-is-subsequence) |
+| [0416-partition-equal-subset-sum](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0526-beautiful-arrangement](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0526-beautiful-arrangement) |
 | [0747-min-cost-climbing-stairs](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0747-min-cost-climbing-stairs) |
