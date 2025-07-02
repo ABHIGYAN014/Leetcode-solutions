@@ -329,6 +329,7 @@ abhii
 | [0279-perfect-squares](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0322-coin-change) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0547-number-of-provinces](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -482,6 +483,7 @@ abhii
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [0565-array-nesting](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0565-array-nesting) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
@@ -597,6 +599,7 @@ abhii
 ## Graph
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1916-find-center-of-star-graph](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/1916-find-center-of-star-graph) |
 ## Brainteaser
@@ -662,6 +665,7 @@ abhii
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0200-number-of-islands) |
+| [0547-number-of-provinces](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0547-number-of-provinces) |
 ## Binary Search Tree
 |  |
 | ------- |
