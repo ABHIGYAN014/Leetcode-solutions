@@ -81,6 +81,7 @@ abhii
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1881-closest-subsequence-sum](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/1881-closest-subsequence-sum) |
 | [1923-sentence-similarity-iii](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/1923-sentence-similarity-iii) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2102-find-the-middle-index-in-array](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/2102-find-the-middle-index-in-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -270,6 +271,7 @@ abhii
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1256-rank-transform-of-an-array](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/1256-rank-transform-of-an-array) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2979-maximize-the-profit-as-the-salesman](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/2979-maximize-the-profit-as-the-salesman) |
 | [3405-count-the-number-of-special-characters-ii](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/3405-count-the-number-of-special-characters-ii) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -590,6 +592,7 @@ abhii
 | [0303-range-sum-query-immutable](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0937-online-stock-span](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0937-online-stock-span) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/1995-finding-pairs-with-a-certain-sum) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
