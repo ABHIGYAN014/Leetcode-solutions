@@ -56,6 +56,7 @@ abhii
 | [0304-range-sum-query-2d-immutable](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0322-coin-change](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
+| [0480-sliding-window-median](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0480-sliding-window-median) |
 | [0485-max-consecutive-ones](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0503-next-greater-element-ii](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0526-beautiful-arrangement](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0526-beautiful-arrangement) |
@@ -264,6 +265,7 @@ abhii
 | [0217-contains-duplicate](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0383-ransom-note) |
+| [0480-sliding-window-median](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0480-sliding-window-median) |
 | [0560-subarray-sum-equals-k](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -281,6 +283,7 @@ abhii
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0239-sliding-window-maximum) |
+| [0480-sliding-window-median](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0480-sliding-window-median) |
 | [0594-longest-harmonious-subsequence](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0940-fruit-into-baskets](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0940-fruit-into-baskets) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -601,6 +604,7 @@ abhii
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0239-sliding-window-maximum](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0239-sliding-window-maximum) |
+| [0480-sliding-window-median](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0480-sliding-window-median) |
 | [0948-sort-an-array](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0948-sort-an-array) |
 ## Merge Sort
 |  |
