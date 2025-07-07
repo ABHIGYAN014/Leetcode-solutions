@@ -76,6 +76,7 @@ abhii
 | [1228-minimum-cost-tree-from-leaf-values](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/1228-minimum-cost-tree-from-leaf-values) |
 | [1256-rank-transform-of-an-array](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/1256-rank-transform-of-an-array) |
 | [1367-maximum-height-by-stacking-cuboids](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/1367-maximum-height-by-stacking-cuboids) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1791-richest-customer-wealth](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/1791-richest-customer-wealth) |
@@ -250,6 +251,7 @@ abhii
 | [0179-largest-number](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0179-largest-number) |
 | [0680-valid-palindrome-ii](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 | [1228-minimum-cost-tree-from-leaf-values](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/1228-minimum-cost-tree-from-leaf-values) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 ## Hash Table
 |  |
 | ------- |
@@ -416,6 +418,7 @@ abhii
 | [0948-sort-an-array](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0948-sort-an-array) |
 | [1256-rank-transform-of-an-array](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/1256-rank-transform-of-an-array) |
 | [1367-maximum-height-by-stacking-cuboids](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/1367-maximum-height-by-stacking-cuboids) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1881-closest-subsequence-sum](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/1881-closest-subsequence-sum) |
 | [2979-maximize-the-profit-as-the-salesman](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/2979-maximize-the-profit-as-the-salesman) |
 ## Bit Manipulation
@@ -610,6 +613,7 @@ abhii
 | [0239-sliding-window-maximum](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [0480-sliding-window-median](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0480-sliding-window-median) |
 | [0948-sort-an-array](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0948-sort-an-array) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 ## Merge Sort
 |  |
 | ------- |
