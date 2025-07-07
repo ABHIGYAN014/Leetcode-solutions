@@ -187,6 +187,7 @@ abhii
 | [0680-valid-palindrome-ii](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 | [0742-to-lower-case](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0742-to-lower-case) |
 | [0812-rotate-string](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0812-rotate-string) |
+| [0851-goat-latin](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0851-goat-latin) |
 | [1045-check-if-word-is-valid-after-substitutions](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/1045-check-if-word-is-valid-after-substitutions) |
 | [1078-remove-outermost-parentheses](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/1078-remove-outermost-parentheses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
