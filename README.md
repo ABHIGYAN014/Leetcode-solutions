@@ -54,6 +54,7 @@ abhii
 | [0300-longest-increasing-subsequence](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0304-range-sum-query-2d-immutable) |
+| [0307-range-sum-query-mutable](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0307-range-sum-query-mutable) |
 | [0322-coin-change](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0480-sliding-window-median](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0480-sliding-window-median) |
@@ -606,6 +607,7 @@ abhii
 | [0155-min-stack](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0155-min-stack) |
 | [0303-range-sum-query-immutable](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0304-range-sum-query-2d-immutable) |
+| [0307-range-sum-query-mutable](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0307-range-sum-query-mutable) |
 | [0937-online-stock-span](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0937-online-stock-span) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/1995-finding-pairs-with-a-certain-sum) |
 ## Heap (Priority Queue)
@@ -739,4 +741,12 @@ abhii
 |  |
 | ------- |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0307-range-sum-query-mutable) |
+## Segment Tree
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0307-range-sum-query-mutable) |
 <!---LeetCode Topics End-->
