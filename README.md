@@ -89,6 +89,7 @@ abhii
 | [2102-find-the-middle-index-in-array](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/2102-find-the-middle-index-in-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2479-meeting-rooms-iii](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/2479-meeting-rooms-iii) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2979-maximize-the-profit-as-the-salesman](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/2979-maximize-the-profit-as-the-salesman) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
@@ -246,6 +247,7 @@ abhii
 | [2265-partition-array-according-to-given-pivot](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/2299-merge-nodes-in-between-zeros) |
+| [2479-meeting-rooms-iii](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/2479-meeting-rooms-iii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Greedy
 |  |
@@ -287,6 +289,7 @@ abhii
 | [1256-rank-transform-of-an-array](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/1256-rank-transform-of-an-array) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2479-meeting-rooms-iii](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/2479-meeting-rooms-iii) |
 | [2979-maximize-the-profit-as-the-salesman](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/2979-maximize-the-profit-as-the-salesman) |
 | [3405-count-the-number-of-special-characters-ii](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/3405-count-the-number-of-special-characters-ii) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -431,6 +434,7 @@ abhii
 | [1367-maximum-height-by-stacking-cuboids](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/1367-maximum-height-by-stacking-cuboids) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1881-closest-subsequence-sum](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/1881-closest-subsequence-sum) |
+| [2479-meeting-rooms-iii](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/2479-meeting-rooms-iii) |
 | [2979-maximize-the-profit-as-the-salesman](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/2979-maximize-the-profit-as-the-salesman) |
 ## Bit Manipulation
 |  |
@@ -627,6 +631,7 @@ abhii
 | [0480-sliding-window-median](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0480-sliding-window-median) |
 | [0948-sort-an-array](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0948-sort-an-array) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [2479-meeting-rooms-iii](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/2479-meeting-rooms-iii) |
 ## Merge Sort
 |  |
 | ------- |
