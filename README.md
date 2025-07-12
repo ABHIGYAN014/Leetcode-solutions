@@ -340,6 +340,7 @@ abhii
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1764-maximum-repeating-substring](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/1764-maximum-repeating-substring) |
 | [1881-closest-subsequence-sum](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/1881-closest-subsequence-sum) |
+| [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2979-maximize-the-profit-as-the-salesman](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/2979-maximize-the-profit-as-the-salesman) |
 ## Breadth-First Search
 |  |
@@ -749,6 +750,7 @@ abhii
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [1013-fibonacci-number](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/1013-fibonacci-number) |
+| [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 ## Interactive
 |  |
 | ------- |
