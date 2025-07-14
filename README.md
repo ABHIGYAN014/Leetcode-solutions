@@ -36,6 +36,7 @@ abhii
 | [0088-merge-sorted-array](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0134-gas-station](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0136-single-number) |
@@ -319,6 +320,7 @@ abhii
 | [0072-edit-distance](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0198-house-robber) |
