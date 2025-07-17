@@ -97,6 +97,7 @@ abhii
 | [2979-maximize-the-profit-as-the-salesman](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/2979-maximize-the-profit-as-the-salesman) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3429-special-array-i](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/3429-special-array-i) |
+| [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
@@ -424,6 +425,7 @@ abhii
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2571-find-the-pivot-integer](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/2571-find-the-pivot-integer) |
+| [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Sorting
