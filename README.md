@@ -191,6 +191,7 @@ abhii
 | [0072-edit-distance](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0072-edit-distance) |
 | [0125-valid-palindrome](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
+| [0171-excel-sheet-column-number](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0171-excel-sheet-column-number) |
 | [0179-largest-number](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0179-largest-number) |
 | [0241-different-ways-to-add-parentheses](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0242-valid-anagram) |
@@ -406,6 +407,7 @@ abhii
 | [0050-powx-n](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0069-sqrtx) |
+| [0171-excel-sheet-column-number](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0231-power-of-two) |
