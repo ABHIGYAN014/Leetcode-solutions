@@ -1,25 +1,21 @@
 class Solution {
 public:
-    int findJudge(int n, vector<vector<int>>& trust) 
-    {
-        vector<int> trustCount(n + 1, 0);
-        vector<int> trustingCount(n + 1, 0);
-        
-        for (const auto& t : trust) 
+    int findJudge(int n, vector<vector<int>>& trust) {
+        unordered_map<int,int> indegree;
+        unordered_map<int,int> outdegree;
+
+        if(trust.empty() && n == 1 ) return 1;
+        for(auto it : trust)
         {
-            int a = t[0], b = t[1];
-            trustingCount[a]++; 
-            trustCount[b]++;
+            int u = it[0];
+            int v = it[1];
+
+            indegree[v]++;
+            outdegree[u]++;
         }
-        
-        for (int i = 1; i <= n; ++i) 
-        {
-            if (trustCount[i] == n - 1 && trustingCount[i] == 0) 
-            {
-                return i;
-            }
+        for(auto it : indegree){
+            if(it.second == n-1 && outdegree[it.first] == 0) return it.first;
         }
-        
         return -1;
     }
 };
