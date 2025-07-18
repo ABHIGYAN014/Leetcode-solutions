@@ -75,6 +75,7 @@ abhii
 | [0940-fruit-into-baskets](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0940-fruit-into-baskets) |
 | [0948-sort-an-array](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0948-sort-an-array) |
 | [1025-minimum-cost-for-tickets](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/1025-minimum-cost-for-tickets) |
+| [1039-find-the-town-judge](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/1039-find-the-town-judge) |
 | [1072-next-greater-node-in-linked-list](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/1072-next-greater-node-in-linked-list) |
 | [1228-minimum-cost-tree-from-leaf-values](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/1228-minimum-cost-tree-from-leaf-values) |
 | [1256-rank-transform-of-an-array](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/1256-rank-transform-of-an-array) |
@@ -301,6 +302,7 @@ abhii
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0940-fruit-into-baskets](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0940-fruit-into-baskets) |
+| [1039-find-the-town-judge](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/1039-find-the-town-judge) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1256-rank-transform-of-an-array](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/1256-rank-transform-of-an-array) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -672,6 +674,7 @@ abhii
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0547-number-of-provinces) |
+| [1039-find-the-town-judge](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/1039-find-the-town-judge) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1916-find-center-of-star-graph](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/1916-find-center-of-star-graph) |
 | [2793-count-the-number-of-complete-components](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/2793-count-the-number-of-complete-components) |
