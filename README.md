@@ -79,6 +79,7 @@ abhii
 | [1072-next-greater-node-in-linked-list](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/1072-next-greater-node-in-linked-list) |
 | [1228-minimum-cost-tree-from-leaf-values](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/1228-minimum-cost-tree-from-leaf-values) |
 | [1256-rank-transform-of-an-array](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/1256-rank-transform-of-an-array) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1367-maximum-height-by-stacking-cuboids](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/1367-maximum-height-by-stacking-cuboids) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -215,6 +216,7 @@ abhii
 | [1078-remove-outermost-parentheses](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/1078-remove-outermost-parentheses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1250-longest-common-subsequence](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/1250-longest-common-subsequence) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1508-longest-happy-prefix](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/1508-longest-happy-prefix) |
 | [1764-maximum-repeating-substring](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/1764-maximum-repeating-substring) |
 | [1923-sentence-similarity-iii](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/1923-sentence-similarity-iii) |
@@ -532,6 +534,7 @@ abhii
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0014-longest-common-prefix) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -556,6 +559,7 @@ abhii
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2793-count-the-number-of-complete-components](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/2793-count-the-number-of-complete-components) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/3058-maximum-number-of-k-divisible-components) |
 ## Backtracking
