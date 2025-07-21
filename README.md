@@ -105,6 +105,7 @@ abhii
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
+| [3507-find-the-count-of-numbers-which-are-not-special](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/3507-find-the-count-of-numbers-which-are-not-special) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Binary Search
@@ -448,6 +449,7 @@ abhii
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2571-find-the-pivot-integer](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/2571-find-the-pivot-integer) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3507-find-the-count-of-numbers-which-are-not-special](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/3507-find-the-count-of-numbers-which-are-not-special) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Sorting
@@ -775,6 +777,7 @@ abhii
 | ------- |
 | [0204-count-primes](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0258-add-digits) |
+| [3507-find-the-count-of-numbers-which-are-not-special](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/3507-find-the-count-of-numbers-which-are-not-special) |
 ## Doubly-Linked List
 |  |
 | ------- |
