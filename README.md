@@ -573,6 +573,7 @@ abhii
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [2438-find-closest-node-to-given-two-nodes](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [2793-count-the-number-of-complete-components](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/2793-count-the-number-of-complete-components) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/3058-maximum-number-of-k-divisible-components) |
 ## Backtracking
@@ -694,6 +695,7 @@ abhii
 | [1039-find-the-town-judge](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/1039-find-the-town-judge) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1916-find-center-of-star-graph](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/1916-find-center-of-star-graph) |
+| [2438-find-closest-node-to-given-two-nodes](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [2793-count-the-number-of-complete-components](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/2793-count-the-number-of-complete-components) |
 ## Brainteaser
 |  |
