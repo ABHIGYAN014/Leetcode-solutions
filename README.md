@@ -97,6 +97,7 @@ abhii
 | [2265-partition-array-according-to-given-pivot](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2400-minimum-score-after-removals-on-a-tree](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2479-meeting-rooms-iii](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -498,6 +499,7 @@ abhii
 | [0526-beautiful-arrangement](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0526-beautiful-arrangement) |
 | [1881-closest-subsequence-sum](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/1881-closest-subsequence-sum) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/2323-minimum-bit-flips-to-convert-number) |
+| [2400-minimum-score-after-removals-on-a-tree](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Linked List
@@ -576,6 +578,7 @@ abhii
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [2400-minimum-score-after-removals-on-a-tree](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [2793-count-the-number-of-complete-components](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/2793-count-the-number-of-complete-components) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/3058-maximum-number-of-k-divisible-components) |
@@ -639,6 +642,7 @@ abhii
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [2400-minimum-score-after-removals-on-a-tree](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/3058-maximum-number-of-k-divisible-components) |
 ## Binary Tree
 |  |
