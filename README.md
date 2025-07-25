@@ -110,6 +110,7 @@ abhii
 | [3507-find-the-count-of-numbers-which-are-not-special](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/3507-find-the-count-of-numbers-which-are-not-special) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Binary Search
 |  |
 | ------- |
@@ -290,6 +291,7 @@ abhii
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Hash Table
 |  |
 | ------- |
@@ -327,6 +329,7 @@ abhii
 | [2979-maximize-the-profit-as-the-salesman](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/2979-maximize-the-profit-as-the-salesman) |
 | [3405-count-the-number-of-special-characters-ii](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/3405-count-the-number-of-special-characters-ii) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Sliding Window
 |  |
 | ------- |
