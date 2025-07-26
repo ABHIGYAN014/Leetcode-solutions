@@ -443,6 +443,7 @@ abhii
 | [0231-power-of-two](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0258-add-digits](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0258-add-digits) |
+| [0263-ugly-number](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0263-ugly-number) |
 | [0279-perfect-squares](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0279-perfect-squares) |
 | [0326-power-of-three](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0342-power-of-four) |
