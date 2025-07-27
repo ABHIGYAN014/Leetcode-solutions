@@ -84,6 +84,7 @@ abhii
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1791-richest-customer-wealth](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/1791-richest-customer-wealth) |
 | [1813-maximum-erasure-value](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/1813-maximum-erasure-value) |
 | [1833-find-the-highest-altitude](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/1833-find-the-highest-altitude) |
@@ -287,6 +288,7 @@ abhii
 | [0680-valid-palindrome-ii](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 | [1228-minimum-cost-tree-from-leaf-values](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/1228-minimum-cost-tree-from-leaf-values) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -621,6 +623,7 @@ abhii
 | [0085-maximal-rectangle](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0304-range-sum-query-2d-immutable](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0304-range-sum-query-2d-immutable) |
+| [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1791-richest-customer-wealth](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/1791-richest-customer-wealth) |
 ## Tree
 |  |
