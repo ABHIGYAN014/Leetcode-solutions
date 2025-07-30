@@ -103,6 +103,7 @@ abhii
 | [2479-meeting-rooms-iii](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2655-rearrange-array-to-maximize-prefix-score](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/2655-rearrange-array-to-maximize-prefix-score) |
 | [2979-maximize-the-profit-as-the-salesman](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/2979-maximize-the-profit-as-the-salesman) |
@@ -518,6 +519,7 @@ abhii
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Linked List
@@ -728,6 +730,7 @@ abhii
 |  |
 | ------- |
 | [1086-divisor-game](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/1086-divisor-game) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Game Theory
 |  |
 | ------- |
