@@ -487,6 +487,7 @@ abhii
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2571-find-the-pivot-integer](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/2571-find-the-pivot-integer) |
+| [3172-divisible-and-non-divisible-sums-difference](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3507-find-the-count-of-numbers-which-are-not-special](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/3507-find-the-count-of-numbers-which-are-not-special) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/3515-find-if-digit-game-can-be-won) |
