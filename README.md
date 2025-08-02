@@ -110,6 +110,7 @@ abhii
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2655-rearrange-array-to-maximize-prefix-score](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/2655-rearrange-array-to-maximize-prefix-score) |
+| [2689-rearranging-fruits](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/2689-rearranging-fruits) |
 | [2979-maximize-the-profit-as-the-salesman](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/2979-maximize-the-profit-as-the-salesman) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
@@ -309,6 +310,7 @@ abhii
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2655-rearrange-array-to-maximize-prefix-score](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/2655-rearrange-array-to-maximize-prefix-score) |
+| [2689-rearranging-fruits](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/2689-rearranging-fruits) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -348,6 +350,7 @@ abhii
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2479-meeting-rooms-iii](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/2479-meeting-rooms-iii) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2689-rearranging-fruits](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/2689-rearranging-fruits) |
 | [2979-maximize-the-profit-as-the-salesman](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/2979-maximize-the-profit-as-the-salesman) |
 | [3405-count-the-number-of-special-characters-ii](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/3405-count-the-number-of-special-characters-ii) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/3408-count-the-number-of-special-characters-i) |
@@ -517,6 +520,7 @@ abhii
 | [2479-meeting-rooms-iii](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2655-rearrange-array-to-maximize-prefix-score](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/2655-rearrange-array-to-maximize-prefix-score) |
+| [2689-rearranging-fruits](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/2689-rearranging-fruits) |
 | [2979-maximize-the-profit-as-the-salesman](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/2979-maximize-the-profit-as-the-salesman) |
 ## Bit Manipulation
 |  |
