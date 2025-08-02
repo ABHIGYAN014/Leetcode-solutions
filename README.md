@@ -94,6 +94,7 @@ abhii
 | [1881-closest-subsequence-sum](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/1881-closest-subsequence-sum) |
 | [1923-sentence-similarity-iii](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/1923-sentence-similarity-iii) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2048-build-array-from-permutation](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/2048-build-array-from-permutation) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2102-find-the-middle-index-in-array](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/2102-find-the-middle-index-in-array) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -290,6 +291,7 @@ abhii
 | [0537-complex-number-multiplication](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0537-complex-number-multiplication) |
 | [0682-baseball-game](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0682-baseball-game) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2048-build-array-from-permutation](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/2048-build-array-from-permutation) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/2299-merge-nodes-in-between-zeros) |
