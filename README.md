@@ -256,6 +256,7 @@ abhii
 | [3396-valid-word](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/3396-valid-word) |
 | [3405-count-the-number-of-special-characters-ii](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/3405-count-the-number-of-special-characters-ii) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/3408-count-the-number-of-special-characters-i) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3617-find-the-original-typed-string-i](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/3617-find-the-original-typed-string-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Stack
@@ -282,6 +283,7 @@ abhii
 | [1228-minimum-cost-tree-from-leaf-values](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/1228-minimum-cost-tree-from-leaf-values) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Simulation
 |  |
 | ------- |
@@ -315,6 +317,7 @@ abhii
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2655-rearrange-array-to-maximize-prefix-score](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/2655-rearrange-array-to-maximize-prefix-score) |
 | [2689-rearranging-fruits](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/2689-rearranging-fruits) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -358,6 +361,7 @@ abhii
 | [2979-maximize-the-profit-as-the-salesman](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/2979-maximize-the-profit-as-the-salesman) |
 | [3405-count-the-number-of-special-characters-ii](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/3405-count-the-number-of-special-characters-ii) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/3408-count-the-number-of-special-characters-i) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Sliding Window
@@ -741,6 +745,7 @@ abhii
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2479-meeting-rooms-iii](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/2479-meeting-rooms-iii) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Merge Sort
 |  |
 | ------- |
