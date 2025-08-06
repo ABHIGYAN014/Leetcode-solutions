@@ -126,6 +126,7 @@ abhii
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3790-fruits-into-baskets-ii](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/3790-fruits-into-baskets-ii) |
+| [3791-fruits-into-baskets-iii](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/3791-fruits-into-baskets-iii) |
 ## Binary Search
 |  |
 | ------- |
@@ -147,6 +148,7 @@ abhii
 | [2979-maximize-the-profit-as-the-salesman](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/2979-maximize-the-profit-as-the-salesman) |
 | [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/3790-fruits-into-baskets-ii) |
+| [3791-fruits-into-baskets-iii](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/3791-fruits-into-baskets-iii) |
 ## Counting
 |  |
 | ------- |
@@ -892,9 +894,11 @@ abhii
 | [0307-range-sum-query-mutable](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0307-range-sum-query-mutable) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [3790-fruits-into-baskets-ii](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/3790-fruits-into-baskets-ii) |
+| [3791-fruits-into-baskets-iii](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/3791-fruits-into-baskets-iii) |
 ## Ordered Set
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [3790-fruits-into-baskets-ii](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/3790-fruits-into-baskets-ii) |
+| [3791-fruits-into-baskets-iii](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/3791-fruits-into-baskets-iii) |
 <!---LeetCode Topics End-->
