@@ -62,6 +62,7 @@ abhii
 | [0416-partition-equal-subset-sum](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0480-sliding-window-median](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0480-sliding-window-median) |
 | [0485-max-consecutive-ones](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0485-max-consecutive-ones) |
+| [0493-reverse-pairs](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0493-reverse-pairs) |
 | [0503-next-greater-element-ii](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0518-coin-change-ii) |
 | [0526-beautiful-arrangement](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0526-beautiful-arrangement) |
@@ -141,6 +142,7 @@ abhii
 | [0315-count-of-smaller-numbers-after-self](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0367-valid-perfect-square](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0374-guess-number-higher-or-lower) |
+| [0493-reverse-pairs](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0493-reverse-pairs) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0792-binary-search) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
@@ -669,6 +671,7 @@ abhii
 | [0148-sort-list](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0169-majority-element) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0493-reverse-pairs](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0493-reverse-pairs) |
 | [0948-sort-an-array](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0948-sort-an-array) |
 ## Matrix
 |  |
@@ -764,6 +767,7 @@ abhii
 | [0023-merge-k-sorted-lists](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0148-sort-list) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0493-reverse-pairs](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0493-reverse-pairs) |
 | [0948-sort-an-array](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0948-sort-an-array) |
 ## Graph
 |  |
@@ -895,17 +899,20 @@ abhii
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0307-range-sum-query-mutable) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0493-reverse-pairs](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0493-reverse-pairs) |
 ## Segment Tree
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0307-range-sum-query-mutable) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0493-reverse-pairs](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0493-reverse-pairs) |
 | [3790-fruits-into-baskets-ii](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/3791-fruits-into-baskets-iii) |
 ## Ordered Set
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0493-reverse-pairs](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0493-reverse-pairs) |
 | [3790-fruits-into-baskets-ii](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/3791-fruits-into-baskets-iii) |
 <!---LeetCode Topics End-->
