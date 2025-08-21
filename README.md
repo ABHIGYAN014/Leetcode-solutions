@@ -116,6 +116,7 @@ abhii
 | [2979-maximize-the-profit-as-the-salesman](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/2979-maximize-the-profit-as-the-salesman) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
+| [3227-find-missing-and-repeated-values](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/3227-find-missing-and-repeated-values) |
 | [3429-special-array-i](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/3429-special-array-i) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
@@ -367,6 +368,7 @@ abhii
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2689-rearranging-fruits](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/2689-rearranging-fruits) |
 | [2979-maximize-the-profit-as-the-salesman](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/2979-maximize-the-profit-as-the-salesman) |
+| [3227-find-missing-and-repeated-values](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/3227-find-missing-and-repeated-values) |
 | [3405-count-the-number-of-special-characters-ii](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/3405-count-the-number-of-special-characters-ii) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/3408-count-the-number-of-special-characters-i) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
@@ -510,6 +512,7 @@ abhii
 | [2050-count-good-numbers](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/2050-count-good-numbers) |
 | [2571-find-the-pivot-integer](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/2571-find-the-pivot-integer) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/3172-divisible-and-non-divisible-sums-difference) |
+| [3227-find-missing-and-repeated-values](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/3227-find-missing-and-repeated-values) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3507-find-the-count-of-numbers-which-are-not-special](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/3507-find-the-count-of-numbers-which-are-not-special) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/3515-find-if-digit-game-can-be-won) |
@@ -680,6 +683,7 @@ abhii
 | [0304-range-sum-query-2d-immutable](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0304-range-sum-query-2d-immutable) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1791-richest-customer-wealth](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/1791-richest-customer-wealth) |
+| [3227-find-missing-and-repeated-values](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/3227-find-missing-and-repeated-values) |
 ## Tree
 |  |
 | ------- |
