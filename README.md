@@ -78,6 +78,7 @@ abhii
 | [0745-find-smallest-letter-greater-than-target](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0747-min-cost-climbing-stairs](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0792-binary-search) |
+| [0907-koko-eating-bananas](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0907-koko-eating-bananas) |
 | [0940-fruit-into-baskets](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0940-fruit-into-baskets) |
 | [0948-sort-an-array](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0948-sort-an-array) |
 | [1025-minimum-cost-for-tickets](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/1025-minimum-cost-for-tickets) |
@@ -151,6 +152,7 @@ abhii
 | [0493-reverse-pairs](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0493-reverse-pairs) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0792-binary-search) |
+| [0907-koko-eating-bananas](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0907-koko-eating-bananas) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
