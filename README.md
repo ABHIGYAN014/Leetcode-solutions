@@ -86,6 +86,7 @@ abhii
 | [1039-find-the-town-judge](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/1039-find-the-town-judge) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1072-next-greater-node-in-linked-list](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/1072-next-greater-node-in-linked-list) |
+| [1113-moving-stones-until-consecutive-ii](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/1113-moving-stones-until-consecutive-ii) |
 | [1228-minimum-cost-tree-from-leaf-values](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/1228-minimum-cost-tree-from-leaf-values) |
 | [1256-rank-transform-of-an-array](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/1256-rank-transform-of-an-array) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -407,6 +408,7 @@ abhii
 | [0567-permutation-in-string](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0940-fruit-into-baskets](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0940-fruit-into-baskets) |
+| [1113-moving-stones-until-consecutive-ii](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/1113-moving-stones-until-consecutive-ii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1813-maximum-erasure-value](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/1813-maximum-erasure-value) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
@@ -531,6 +533,7 @@ abhii
 | [0539-minimum-time-difference](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0539-minimum-time-difference) |
 | [1013-fibonacci-number](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/1086-divisor-game) |
+| [1113-moving-stones-until-consecutive-ii](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/1113-moving-stones-until-consecutive-ii) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2050-count-good-numbers](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/2050-count-good-numbers) |
@@ -559,6 +562,7 @@ abhii
 | [0539-minimum-time-difference](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0539-minimum-time-difference) |
 | [0594-longest-harmonious-subsequence](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0948-sort-an-array](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0948-sort-an-array) |
+| [1113-moving-stones-until-consecutive-ii](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/1113-moving-stones-until-consecutive-ii) |
 | [1256-rank-transform-of-an-array](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/1256-rank-transform-of-an-array) |
 | [1367-maximum-height-by-stacking-cuboids](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/1367-maximum-height-by-stacking-cuboids) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
