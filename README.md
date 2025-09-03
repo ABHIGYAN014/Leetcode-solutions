@@ -62,6 +62,7 @@ abhii
 | [0307-range-sum-query-mutable](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0307-range-sum-query-mutable) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0322-coin-change](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0322-coin-change) |
+| [0410-split-array-largest-sum](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0480-sliding-window-median](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0480-sliding-window-median) |
 | [0485-max-consecutive-ones](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0485-max-consecutive-ones) |
@@ -154,6 +155,7 @@ abhii
 | [0315-count-of-smaller-numbers-after-self](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0367-valid-perfect-square](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0374-guess-number-higher-or-lower) |
+| [0410-split-array-largest-sum](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0493-reverse-pairs) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0792-binary-search) |
@@ -336,6 +338,7 @@ abhii
 | [0055-jump-game](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0134-gas-station) |
 | [0179-largest-number](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0179-largest-number) |
+| [0410-split-array-largest-sum](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0680-valid-palindrome-ii](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 | [1228-minimum-cost-tree-from-leaf-values](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/1228-minimum-cost-tree-from-leaf-values) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -435,6 +438,7 @@ abhii
 | [0343-integer-break](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0343-integer-break) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0392-is-subsequence](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0392-is-subsequence) |
+| [0410-split-array-largest-sum](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0518-coin-change-ii) |
@@ -625,6 +629,7 @@ abhii
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0304-range-sum-query-2d-immutable) |
+| [0410-split-array-largest-sum](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
