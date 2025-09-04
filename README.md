@@ -349,6 +349,7 @@ abhii
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2655-rearrange-array-to-maximize-prefix-score](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/2655-rearrange-array-to-maximize-prefix-score) |
 | [2689-rearranging-fruits](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/2689-rearranging-fruits) |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
@@ -538,6 +539,7 @@ abhii
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2050-count-good-numbers](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/2050-count-good-numbers) |
 | [2571-find-the-pivot-integer](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/2571-find-the-pivot-integer) |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3227-find-missing-and-repeated-values](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/3227-find-missing-and-repeated-values) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
