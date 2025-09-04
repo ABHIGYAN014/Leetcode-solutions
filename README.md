@@ -125,6 +125,7 @@ abhii
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2655-rearrange-array-to-maximize-prefix-score](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/2655-rearrange-array-to-maximize-prefix-score) |
 | [2689-rearranging-fruits](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/2689-rearranging-fruits) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2979-maximize-the-profit-as-the-salesman](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/2979-maximize-the-profit-as-the-salesman) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
@@ -168,6 +169,7 @@ abhii
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2979-maximize-the-profit-as-the-salesman](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/2979-maximize-the-profit-as-the-salesman) |
 | [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/3790-fruits-into-baskets-ii) |
@@ -223,6 +225,7 @@ abhii
 | [2271-rearrange-array-elements-by-sign](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
 ## String
 |  |
@@ -575,6 +578,7 @@ abhii
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2655-rearrange-array-to-maximize-prefix-score](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/2655-rearrange-array-to-maximize-prefix-score) |
 | [2689-rearranging-fruits](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/2689-rearranging-fruits) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2979-maximize-the-profit-as-the-salesman](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/2979-maximize-the-profit-as-the-salesman) |
 ## Bit Manipulation
 |  |
