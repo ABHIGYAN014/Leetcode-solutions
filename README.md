@@ -107,6 +107,7 @@ abhii
 | [1881-closest-subsequence-sum](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/1881-closest-subsequence-sum) |
 | [1923-sentence-similarity-iii](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/1923-sentence-similarity-iii) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2047-find-a-peak-element-ii](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/2047-find-a-peak-element-ii) |
 | [2048-build-array-from-permutation](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/2048-build-array-from-permutation) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2102-find-the-middle-index-in-array](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/2102-find-the-middle-index-in-array) |
@@ -171,6 +172,7 @@ abhii
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/1646-kth-missing-positive-number) |
+| [2047-find-a-peak-element-ii](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/2047-find-a-peak-element-ii) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -730,6 +732,7 @@ abhii
 | [0304-range-sum-query-2d-immutable](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0304-range-sum-query-2d-immutable) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1791-richest-customer-wealth](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/1791-richest-customer-wealth) |
+| [2047-find-a-peak-element-ii](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/2047-find-a-peak-element-ii) |
 | [2737-row-with-maximum-ones](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/2737-row-with-maximum-ones) |
 | [3227-find-missing-and-repeated-values](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/3227-find-missing-and-repeated-values) |
 ## Tree
