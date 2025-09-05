@@ -601,6 +601,7 @@ abhii
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Linked List
@@ -821,6 +822,7 @@ abhii
 | ------- |
 | [1086-divisor-game](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/1086-divisor-game) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 ## Game Theory
 |  |
 | ------- |
@@ -896,6 +898,7 @@ abhii
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0204-count-primes) |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 ## Number Theory
 |  |
