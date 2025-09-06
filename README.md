@@ -288,6 +288,7 @@ abhii
 | [1302-delete-characters-to-make-fancy-string](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1508-longest-happy-prefix](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/1508-longest-happy-prefix) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1764-maximum-repeating-substring](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/1764-maximum-repeating-substring) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1923-sentence-similarity-iii](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/1923-sentence-similarity-iii) |
@@ -324,6 +325,7 @@ abhii
 | [1078-remove-outermost-parentheses](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/1078-remove-outermost-parentheses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1228-minimum-cost-tree-from-leaf-values](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/1228-minimum-cost-tree-from-leaf-values) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
