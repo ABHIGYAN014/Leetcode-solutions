@@ -260,6 +260,7 @@ abhii
 | [0151-reverse-words-in-a-string](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0171-excel-sheet-column-number](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0171-excel-sheet-column-number) |
 | [0179-largest-number](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0179-largest-number) |
+| [0205-isomorphic-strings](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0241-different-ways-to-add-parentheses](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0290-word-pattern) |
@@ -379,6 +380,7 @@ abhii
 | [0142-linked-list-cycle-ii](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0290-word-pattern) |
