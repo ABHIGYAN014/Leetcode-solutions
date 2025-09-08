@@ -190,6 +190,7 @@ abhii
 | [0451-sort-characters-by-frequency](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0594-longest-harmonious-subsequence](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -293,6 +294,7 @@ abhii
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1764-maximum-repeating-substring](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/1764-maximum-repeating-substring) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/1818-maximum-score-from-removing-substrings) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1923-sentence-similarity-iii](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/1923-sentence-similarity-iii) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/2079-delete-duplicate-folders-in-system) |
@@ -406,6 +408,7 @@ abhii
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1813-maximum-erasure-value](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/1813-maximum-erasure-value) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
