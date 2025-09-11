@@ -300,6 +300,7 @@ abhii
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2887-sort-vowels-in-a-string](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/2887-sort-vowels-in-a-string) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
 | [3396-valid-word](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/3396-valid-word) |
@@ -606,6 +607,7 @@ abhii
 | [2655-rearrange-array-to-maximize-prefix-score](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/2655-rearrange-array-to-maximize-prefix-score) |
 | [2689-rearranging-fruits](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/2689-rearranging-fruits) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/2699-count-the-number-of-fair-pairs) |
+| [2887-sort-vowels-in-a-string](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/2887-sort-vowels-in-a-string) |
 | [2979-maximize-the-profit-as-the-salesman](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/2979-maximize-the-profit-as-the-salesman) |
 ## Bit Manipulation
 |  |
