@@ -309,6 +309,7 @@ abhii
 | [3405-count-the-number-of-special-characters-ii](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/3405-count-the-number-of-special-characters-ii) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/3408-count-the-number-of-special-characters-i) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+| [3462-vowels-game-in-a-string](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/3462-vowels-game-in-a-string) |
 | [3617-find-the-original-typed-string-i](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/3617-find-the-original-typed-string-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Stack
@@ -575,6 +576,7 @@ abhii
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3227-find-missing-and-repeated-values](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/3227-find-missing-and-repeated-values) |
+| [3462-vowels-game-in-a-string](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/3462-vowels-game-in-a-string) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3507-find-the-count-of-numbers-which-are-not-special](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/3507-find-the-count-of-numbers-which-are-not-special) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/3515-find-if-digit-game-can-be-won) |
@@ -860,11 +862,13 @@ abhii
 | [1086-divisor-game](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/1086-divisor-game) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
+| [3462-vowels-game-in-a-string](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/3462-vowels-game-in-a-string) |
 ## Game Theory
 |  |
 | ------- |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [1086-divisor-game](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/1086-divisor-game) |
+| [3462-vowels-game-in-a-string](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/3462-vowels-game-in-a-string) |
 ## Bucket Sort
 |  |
 | ------- |
