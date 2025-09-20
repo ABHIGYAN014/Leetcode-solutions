@@ -150,6 +150,7 @@ abhii
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3790-fruits-into-baskets-ii](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/3791-fruits-into-baskets-iii) |
+| [3827-implement-router](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/3827-implement-router) |
 ## Binary Search
 |  |
 | ------- |
@@ -186,6 +187,7 @@ abhii
 | [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/3791-fruits-into-baskets-iii) |
+| [3827-implement-router](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/3827-implement-router) |
 ## Counting
 |  |
 | ------- |
@@ -441,6 +443,7 @@ abhii
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3827-implement-router](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/3827-implement-router) |
 ## Sliding Window
 |  |
 | ------- |
@@ -840,6 +843,7 @@ abhii
 | [0307-range-sum-query-mutable](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0307-range-sum-query-mutable) |
 | [0937-online-stock-span](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0937-online-stock-span) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [3827-implement-router](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/3827-implement-router) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -930,6 +934,7 @@ abhii
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0239-sliding-window-maximum) |
+| [3827-implement-router](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/3827-implement-router) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -1012,4 +1017,5 @@ abhii
 | [0493-reverse-pairs](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0493-reverse-pairs) |
 | [3790-fruits-into-baskets-ii](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/3791-fruits-into-baskets-iii) |
+| [3827-implement-router](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/3827-implement-router) |
 <!---LeetCode Topics End-->
