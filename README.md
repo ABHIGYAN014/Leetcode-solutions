@@ -78,6 +78,7 @@ abhii
 | [0565-array-nesting](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0565-array-nesting) |
 | [0594-longest-harmonious-subsequence](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0611-valid-triangle-number](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0611-valid-triangle-number) |
 | [0682-baseball-game](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0745-find-smallest-letter-greater-than-target) |
@@ -172,6 +173,7 @@ abhii
 | [0374-guess-number-higher-or-lower](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0374-guess-number-higher-or-lower) |
 | [0410-split-array-largest-sum](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0493-reverse-pairs) |
+| [0611-valid-triangle-number](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0611-valid-triangle-number) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0907-koko-eating-bananas) |
@@ -237,6 +239,7 @@ abhii
 | [0345-reverse-vowels-of-a-string](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0567-permutation-in-string) |
+| [0611-valid-triangle-number](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0611-valid-triangle-number) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0680-valid-palindrome-ii](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 | [0908-middle-of-the-linked-list](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0908-middle-of-the-linked-list) |
@@ -378,6 +381,7 @@ abhii
 | [0134-gas-station](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0134-gas-station) |
 | [0179-largest-number](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0179-largest-number) |
 | [0410-split-array-largest-sum](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0410-split-array-largest-sum) |
+| [0611-valid-triangle-number](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0611-valid-triangle-number) |
 | [0680-valid-palindrome-ii](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 | [1228-minimum-cost-tree-from-leaf-values](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/1228-minimum-cost-tree-from-leaf-values) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -621,6 +625,7 @@ abhii
 | [0451-sort-characters-by-frequency](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0539-minimum-time-difference](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0539-minimum-time-difference) |
 | [0594-longest-harmonious-subsequence](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
+| [0611-valid-triangle-number](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0611-valid-triangle-number) |
 | [0948-sort-an-array](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0948-sort-an-array) |
 | [1113-moving-stones-until-consecutive-ii](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/1113-moving-stones-until-consecutive-ii) |
 | [1256-rank-transform-of-an-array](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/1256-rank-transform-of-an-array) |
