@@ -55,6 +55,7 @@ abhii
 | [0204-count-primes](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0229-majority-element-ii) |
+| [0238-product-of-array-except-self](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0260-single-number-iii](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0260-single-number-iii) |
@@ -703,6 +704,7 @@ abhii
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0410-split-array-largest-sum](https://github.com/ABHIGYAN014/Leetcode-solutions/tree/master/0410-split-array-largest-sum) |
