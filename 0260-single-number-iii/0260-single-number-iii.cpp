@@ -6,7 +6,6 @@ public:
             xorr ^= num;
         }
 
-        // compute lowest set bit safely in unsigned arithmetic
         unsigned int lastbit = (unsigned int)xorr & (-(unsigned int)xorr);
 
         int b1 = 0, b2 = 0;
